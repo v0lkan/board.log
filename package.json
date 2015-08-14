@@ -1,0 +1,24 @@
+{
+  "name": "board.log",
+  "version": "0.1.0",
+  "description": "A centralized logging facade for board modules.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/v0lkan/board.log.git"
+  },
+  "keywords": [
+    "logging",
+    "logger",
+    "board"
+  ],
+  "author": "Volkan Özçelik",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/v0lkan/board.log/issues"
+  },
+  "homepage": "https://github.com/v0lkan/board.log#readme"
+}
